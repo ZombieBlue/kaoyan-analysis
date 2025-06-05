@@ -1,0 +1,1 @@
+{"model_name": "GBT", "rmse": 38.757174546318055, "feature_columns": ["applicants_double", "is_985_double", "is_211_double", "type_index_double", "code_index_double", "province_index_double", "rank_double", "year_double"], "original_feature_columns": ["applicants", "is_985", "is_211", "type_index", "code_index", "province_index", "rank", "year"], "target": "min_score"}
